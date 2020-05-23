@@ -1,9 +1,6 @@
-#app{
-	width: 350px!important;
-	height: 350px!important;
-	display: block;
-}
-a{
-	width: 350px!important;
-	height: 350px!important;
+img{
+display:block;
+width:250px;
+height:250px;
+margin:50px;
 }
