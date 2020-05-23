@@ -1,4 +1,9 @@
-img{
-  display: block;
-  margin:50px;
+#app{
+	width: 350px!important;
+	height: 350px!important;
+	display: block;
+}
+a{
+	width: 350px!important;
+	height: 350px!important;
 }
